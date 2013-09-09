@@ -17,4 +17,7 @@ are intended for my master thesis. https://is.cuni.cz/studium/eng/dipl_st/index.
 Project description
 --------------------
 This repository contains sources for Eclipse update site of https://bitbucket.org/stepanv/eclipse-jpf Eclipse JavaPathfinder plugin (2nd generation).
+
+Update site
+-----------
 Currently, update site is hosted here: http://la.uvavru.net/eclipse-jpf/update
