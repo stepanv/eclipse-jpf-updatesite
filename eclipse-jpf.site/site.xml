@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/gov.nasa.jpf.eclipsejpf_1.0.0.201309091959.jar" id="gov.nasa.jpf.eclipsejpf" version="1.0.0.201309091959">
+   <feature url="features/gov.nasa.jpf.eclipsejpf_1.0.0.201309101115.jar" id="gov.nasa.jpf.eclipsejpf" version="1.0.0.201309101115">
       <category name="gov.nasa.jpf.runjpf.site"/>
    </feature>
    <category-def name="gov.nasa.jpf.runjpf.site" label="Java PathFinder"/>
